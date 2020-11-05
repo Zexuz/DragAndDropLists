@@ -1,7 +1,7 @@
-import 'package:drag_and_drop_lists/drag_and_drop_item.dart';
-import 'package:drag_and_drop_lists/drag_and_drop_item_target.dart';
-import 'package:drag_and_drop_lists/drag_and_drop_list_interface.dart';
-import 'package:drag_and_drop_lists/drag_and_drop_lists.dart';
+import 'package:drag_and_drop_lists_fork_robin/drag_and_drop_item.dart';
+import 'package:drag_and_drop_lists_fork_robin/drag_and_drop_item_target.dart';
+import 'package:drag_and_drop_lists_fork_robin/drag_and_drop_list_interface.dart';
+import 'package:drag_and_drop_lists_fork_robin/drag_and_drop_lists_fork_robin.dart';
 import 'package:flutter/widgets.dart';
 
 enum DragHandleVerticalAlignment {

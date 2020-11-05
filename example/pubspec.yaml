@@ -24,7 +24,7 @@ dependencies:
   flutter:
     sdk: flutter
 
-  drag_and_drop_lists:
+  drag_and_drop_lists_fork_robin:
     path: ../
 
 

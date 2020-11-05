@@ -1,4 +1,4 @@
-name: drag_and_drop_lists
+name: drag_and_drop_lists_fork_robin
 description: A flutter package to allow drag-and-drop reordering of two-level lists.
 version: 0.2.8
 homepage: https://github.com/Zexuz/DragAndDropLists

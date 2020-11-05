@@ -33,15 +33,15 @@ See the following issues:
 * [Flutter #66887](https://github.com/flutter/flutter/issues/66887)
 
 ## Usage
-To use this plugin, add `drag_and_drop_lists` as a [dependency in your pubspec.yaml file.](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
+To use this plugin, add `drag_and_drop_lists_fork_robin` as a [dependency in your pubspec.yaml file.](https://flutter.dev/docs/development/packages-and-plugins/using-packages)
 For example:
 
 ```
 dependencies:
-  drag_and_drop_lists: ^0.2.1
+  drag_and_drop_lists_fork_robin: ^0.2.1
 ``` 
 
-Now in your Dart code, you can use: `import 'package:drag_and_drop_lists/drag_and_drop_lists.dart';`
+Now in your Dart code, you can use: `import 'package:drag_and_drop_lists_fork_robin/drag_and_drop_lists_fork_robin.dart';`
 
 To add the lists, add a `DragAndDropLists` widget. Set its children to a list of `DragAndDropList`. Likewise, set the children of `DragAndDropList` to a list of `DragAndDropItem`.
 For example:

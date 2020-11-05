@@ -1,6 +1,6 @@
 import 'package:flutter_test/flutter_test.dart';
 
-import 'package:drag_and_drop_lists/drag_and_drop_lists.dart';
+import 'package:drag_and_drop_lists_fork_robin/drag_and_drop_lists_fork_robin.dart';
 
 void main() {
   test('adds one to input values', () {
